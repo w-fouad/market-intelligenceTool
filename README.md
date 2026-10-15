@@ -1,3 +1,4 @@
+
 Market Intelligence & Competitor Scraping Tool
 
 Project Overview
@@ -97,3 +98,6 @@ The database and generated reports are local files unless separately configured 
 Author
 
 Market Intelligence & Competitor Scraping Tool Project WAAD FOUAD ABUHAMAD
+
+# market-intelligenceTool
+ dd772eb5f04577e83b1cd2a8fece1f9814087226
