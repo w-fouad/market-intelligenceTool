@@ -1,0 +1,29 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets and API keys
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local database
+competitor_intelligence.db
+*.db
+
+# Generated reports
+reports/
+*.xlsx
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
